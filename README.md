@@ -9,4 +9,4 @@ This is a simple static website built to demonstrate the CI/CD pipeline using Gi
 2. Open the `index.html` file in any modern web browser.
 
 ### GitHub Pages Link
-[Link will be added here after the workflow finishes successfully]
+[[Link will be added here after the workflow finishes successfully](https://insafroumy.github.io/cloud-beginner-cicd-pages-Insaf/)]
